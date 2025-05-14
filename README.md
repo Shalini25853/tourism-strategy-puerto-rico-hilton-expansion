@@ -1,12 +1,12 @@
 # tourism-strategy-puerto-rico-hilton-expansion
 Strategic development plan for revitalizing Puerto Rico’s tourism industry through hospitality expansion, experiential branding, and digital marketing initiatives targeting global travelers.
-# 🌴 Puerto Rico Tourism Strategy & Hilton Expansion Plan
+#  Puerto Rico Tourism Strategy & Hilton Expansion Plan
 
 This project presents a revitalization strategy for Puerto Rico’s tourism industry, blending **hospitality expansion**, **experiential branding**, and **digital engagement**. The plan is tailored to attract diverse traveler segments and position Puerto Rico as a premier global destination.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To design a scalable and sustainable plan that:
 - Expands Hilton-branded accommodations across four strategic locations
@@ -16,27 +16,27 @@ To design a scalable and sustainable plan that:
 
 ---
 
-## 📊 Key Strategy Components
+## Key Strategy Components
 
-### 🏨 Hospitality Expansion
+### Hospitality Expansion
 - 1,750 new Hilton-branded rooms across PR
 - Targeted at business, luxury, wellness, and adventure travelers
 
-### 🎪 Experiential Branding
+###  Experiential Branding
 - Puerto Rico Beach Clubs (music, DJs)
 - Indoor Zoos & Aquariums
 - NBA & Combat Sports Events
 - Cultural festivals (music, food, fashion)
 - Tech expos and global networking events
 
-### 🌐 Website & Digital Presence
+###  Website & Digital Presence
 - SEO, multilingual support, chatbot integration
 - Shortened promotional videos
 - Enhanced UX/UI for travel planning
 
 ---
 
-## 🧠 Tools & Methods
+##  Tools & Methods
 
 - SWOT analysis
 - Demographic segmentation
@@ -46,7 +46,7 @@ To design a scalable and sustainable plan that:
 
 ---
 
-## 🚧 Crime & Risk Mitigation
+## Crime & Risk Mitigation
 
 - 7-point public safety strategy:
   - Community policing
@@ -55,13 +55,13 @@ To design a scalable and sustainable plan that:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Business Challenge.edited.docx` – Full strategic proposal and supporting visuals
 
 ---
 
-## 🌍 Business & Social Impact
+##  Business & Social Impact
 
 - Doubles accommodation capacity for peak travel seasons
 - Converts business travelers to long-term visitors
@@ -69,14 +69,14 @@ To design a scalable and sustainable plan that:
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#tourism` `#hospitality` `#strategy` `#economic-development`  
 `#branding` `#puerto-rico` `#marketing-plan` `#hilton`
 
 ---
 
-## ✍️ Author
+## Author
 
 **Shalini James Paulraj**  
 Graduate Student – Business Analytics & International Business  
